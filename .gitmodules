@@ -1,0 +1,3 @@
+[submodule "Starling-Framework"]
+	path = Starling-Framework
+	url = https://github.com/win-interactive-maksymkolotii/Starling-Framework.git
